@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h5.card-title {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.card-body {
+  border: #b10849;
+  background-color: #fff0ee;
+  padding: 1rem 1.5rem;
+}
+
+div .card-body .btn-primary {
+  background-color: #b10849;
+  border: #b10849;
+}
